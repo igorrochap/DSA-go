@@ -10,7 +10,8 @@ Output: ```4```
 #### Explanation:
 
 The following substring has a length of 4 and contains at most two occurrences of each character: "bcbbbcba".
-Example 2:
+
+### Example 2:
 
 Input: ```s = "aaaa"```
 
